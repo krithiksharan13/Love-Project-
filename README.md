@@ -85,4 +85,5 @@ If canvas isn’t supported, a graceful fallback message will appear.
 This is a personal project made with love. Whether you're a developer, a designer, or just someone looking to express your feelings in a unique way, feel free to adapt this project for your own story.
 
 I LOVE YOU SO MUCH, Shwe♥
+
 – Your IDIOT
