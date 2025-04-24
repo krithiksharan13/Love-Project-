@@ -47,43 +47,41 @@ together.setMinutes(57);
 3. A custom typewriter effect prints the love note like it's being typed.
 
 ### 💻 Usage
-Clone this repository or download the project files.
-
-Open index.html in a modern browser (Chrome, Firefox, etc.).
-
-Make sure you are connected to the internet (Font Awesome needs it unless hosted locally).
-
-Optionally edit the text in index.html to personalize your message.
+1. Clone this repository or download the project files.
+2. Open index.html in a modern browser (Chrome, Firefox, etc.).
+3. Make sure you are connected to the internet (Font Awesome needs it unless hosted locally).
+4. Optionally edit the text in index.html to personalize your message.
+5. Replace the image.jpg file to the image that you require
 
 ### 🛠 Customization
-💌 Change the love message: Edit the content in the <div id="code"> section.
+- 💌 Change the love message: Edit the content in the <div id="code"> section.
 
-⏳ Change the date/time: Modify the together variable in the <script> block.
+- ⏳ Change the date/time: Modify the together variable in the <script> block.
 
-🎨 Change styles: Edit the CSS in css/default.css.
+- 🎨 Change styles: Edit the CSS in css/default.css.
 
-💚 Update the heart image: Replace or rename image.jpg.
+- 💚 Update the heart image: Replace or rename image.jpg.
 
 ### 🌐 Browser Support:
 Make sure you're using a browser that supports HTML5 canvas.
 
-✅ Chrome 14+
-✅ Firefox 7+
-✅ Safari 4+
-✅ Edge/IE 9+
+- ✅ Chrome 14+
+- ✅ Firefox 7+
+- ✅ Safari 4+
+- ✅ Edge/IE 9+
 
 If canvas isn’t supported, a graceful fallback message will appear.
 
 ### ❤️ Credits
-🌸 Heart animation inspired by classic canvas garden effects
+- 🌸 Heart animation inspired by classic canvas garden effects
 
-🧠 jQuery for animations and DOM manipulation
+- 🧠 jQuery for animations and DOM manipulation
 
-🎨 Font Awesome for icons
+- 🎨 Font Awesome for icons
 
-💾 Digital-7 Mono Font used for the clock
+- 💾 Digital-7 Mono Font used for the clock
 
-👋 Final Words
+### 👋 Final Words
 This is a personal project made with love. Whether you're a developer, a designer, or just someone looking to express your feelings in a unique way, feel free to adapt this project for your own story.
 
 I LOVE YOU SO MUCH, Shwe♥
