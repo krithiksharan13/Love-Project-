@@ -1,4 +1,4 @@
-# 💖 A Love Letter for My Aunty
+# 💖 A Love Letter
 
 A sweet, animated personal webpage that expresses love and memories, complete with a blooming heart garden animation, custom typography, and a special message from the heart.
 
